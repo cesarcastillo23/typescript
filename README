@@ -1,0 +1,5 @@
+//acceder cd
+//tsc *archivo a ejecitar*.ts
+//node *archivo a ejecitar*.js
+//tsc -init 
+//tsc -w
